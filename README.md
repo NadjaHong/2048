@@ -9,4 +9,5 @@
 
 算法参考：
 >  [Cocos2d-x 3.x版2048游戏开发](http://blog.csdn.net/wwj_748/article/details/38168649)
-> [最佳实战：用Cocos2d-x3.x和C++11编写2048游戏以及游戏AI（全民2048 Android版上线啦）](http://blog.csdn.net/booirror/article/details/45490523)
+
+>  [最佳实战：用Cocos2d-x3.x和C++11编写2048游戏以及游戏AI（全民2048 Android版上线啦）](http://blog.csdn.net/booirror/article/details/45490523)
